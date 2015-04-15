@@ -1,0 +1,8 @@
+{
+  "name": "toduo",
+  "version": "0.0.1",
+  "dependencies": {
+    "material-design-icons": "~1.0.1"
+  },
+  "private": true
+}
